@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/Circles-test/',
+  base: '/circles-app1/',
 })
